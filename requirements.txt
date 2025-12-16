@@ -1,4 +1,4 @@
-streamlit
+streamlit>=1.25
 
 torch==2.9.1
 torchvision==0.24.1
@@ -7,6 +7,6 @@ numpy>=1.26,<2.1
 Pillow>=9.4
 matplotlib>=3.7
 
-tqdm
+tqdm>=4.66
 h5py
 scikit-learn
