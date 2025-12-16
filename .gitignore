@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HDF5 dataset (generated locally)
+*.h5
+
+# Images (optional – remove if you want to track images)
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db

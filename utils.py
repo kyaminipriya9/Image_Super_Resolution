@@ -12,7 +12,7 @@ import math
 
 from torch.utils.data import DataLoader, Dataset
 from tqdm import tqdm
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split # type: ignore
 from torchvision.utils import save_image
 
 from PIL import Image
